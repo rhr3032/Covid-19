@@ -1,5 +1,5 @@
 # Covid-19 Website 🦠🖥️
-## [Preview](https://rhr3032.github.io/NUYsDZiN/) | [UI Design](https://www.behance.net/gallery/146340101/Covid-19-Website-UI-Design)
+## [Preview](https://rhr3032.github.io/Covid-19/) | [UI Design](https://www.behance.net/gallery/146340101/Covid-19-Website-UI-Design)
 
 
 ### Include this Portfolio Website ➡️
